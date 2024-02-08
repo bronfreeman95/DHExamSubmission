@@ -1,4 +1,4 @@
-# DHExamSubmission
+# DH_ExamSubmission_Bronwyn_Freeman
 Files for exam submission
 This Repository contains the follwoing: 
 1) Raw dataset .xlsx file
@@ -7,3 +7,4 @@ This Repository contains the follwoing:
 4) Markdown file contain Shiny web app URL link
 5) PDF Report
 6) HTML file of the Shiny Web App
+7) R project file 
